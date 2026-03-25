@@ -1,2 +1,4 @@
-Life is all about finding money and spending on luxury stuffs
-Coz this life is kinda short , trust 
+📌 Project Title: Combat Online Plagiarism With AI
+
+📖 Description:
+Combat Online Plagiarism With AI is an intelligent system designed to ensure content originality by detecting copied or paraphrased text using machine learning and natural language processing (NLP) techniques. The system analyzes input content and compares it with existing sources to identify similarities. For example, it can evaluate statements like “Life is all about finding money and spending on luxury stuffs…” and detect whether similar content already exists. It highlights duplicated sections, provides similarity scores, and assists users in rewriting content to make it more unique and authentic. This project is especially useful for students, writers, and organizations to maintain academic integrity, avoid plagiarism, and promote ethical content creation in the digital world.
